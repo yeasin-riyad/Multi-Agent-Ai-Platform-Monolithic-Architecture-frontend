@@ -1,5 +1,15 @@
 # 🚀 AgentixAI — Production-Ready Multi-Agent AI Platform
 
+### Building Intelligent AI Applications with MERN, LangGraph, RAG, Microservices & AWS
+
+**AgentixAI** is a powerful, scalable, and production-oriented Multi-Agent AI platform that combines the MERN stack with modern AI technologies to build intelligent applications. It brings together AI agents, retrieval-augmented generation (RAG), vector search, document processing, and distributed backend services in a unified architecture.
+
+Designed with scalability, maintainability, and real-world application development in mind, AgentixAI demonstrates how modern web technologies and agentic AI workflows can work together to create intelligent, context-aware applications.
+
+Whether you're building an AI SaaS product, developing enterprise AI solutions, preparing for backend engineering interviews, or strengthening your portfolio, AgentixAI provides a foundation for exploring modern AI application architecture.
+
+---
+
 ## 📸 Screenshots
 
 ### 🏠 Search Agent
@@ -19,14 +29,6 @@
 
 ### ⚙️ Vision Generation
 ![Agentix AI Vision Agent](./screenshots/img6.png)
-
-### Building Intelligent AI Applications with MERN, LangGraph, RAG, Microservices & AWS
-
-**AgentixAI** is a powerful, scalable, and production-oriented Multi-Agent AI platform that combines the MERN stack with modern AI technologies to build intelligent applications. It brings together AI agents, retrieval-augmented generation (RAG), vector search, document processing, and distributed backend services in a unified architecture.
-
-Designed with scalability, maintainability, and real-world application development in mind, AgentixAI demonstrates how modern web technologies and agentic AI workflows can work together to create intelligent, context-aware applications.
-
-Whether you're building an AI SaaS product, developing enterprise AI solutions, preparing for backend engineering interviews, or strengthening your portfolio, AgentixAI provides a foundation for exploring modern AI application architecture.
 
 ---
 
