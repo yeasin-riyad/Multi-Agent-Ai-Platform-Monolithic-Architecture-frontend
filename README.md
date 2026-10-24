@@ -2,8 +2,8 @@
 
 ## 📸 Screenshots
 
-### 🏠 Home Page
-![Agentix AI Home Page](./screenshots/img1.png)
+### 🏠 Search Agent
+![Agentix AI Search Agent](./screenshots/img1.png)
 
 ### 🏠 Coding Agent
 ![Agentix AI Coding Agent](./screenshots/img2.png)
