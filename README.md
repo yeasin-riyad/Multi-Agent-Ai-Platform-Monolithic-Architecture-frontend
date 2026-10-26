@@ -131,6 +131,13 @@ flowchart TD
     DOCKER --> AWS[AWS Deployment]
 ```
 
+### 📐 Interactive Architecture Diagram (Excalidraw)
+View and edit the full system architecture diagram on Excalidraw:
+
+- [AgentixAI Architecture] — (https://excalidraw.com/#json=r6Ru2Np5cwntFmFwX-kyV,hHgTxeskdiwLsBaaIPoUQA)
+
+The Excalidraw board provides an interactive, editable view of the full AgentixAI system architecture — including the frontend, API layer, AI orchestration, agent layer, RAG pipeline, vector database, caching, microservices, Docker, and AWS deployment. You can pan, zoom, and modify the diagram directly in your browser.
+
 ### Architecture Overview
 
 1. **Frontend Layer:** React provides the user interface, while Redux Toolkit manages application state.
